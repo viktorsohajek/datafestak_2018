@@ -4,6 +4,11 @@ A repo for storing stuff for data science workshop for https://www.datafestak.cz
 # When & Where
 The workshop will be held at **HH:MM** in room **XXX**. Please get there on time, we'll not wait up.
 
+# Who'll be speaking
+* Viktor Sohajek (Mall Group)
+* Hynek Walner (Workday)
+* Viktor Brada (Workday)
+
 # About the workshop
 The aim of this workshop is to give you a starter kit for modeling using machine learning techniques. After the end of the workshop, you shoul be able to:
 * Understand the concept of train-test dataset split for predictive modeling.
