@@ -19,8 +19,9 @@ The aim of this workshop is to give you a starter kit for modeling using machine
 
 # The workshop will not do:
 * Make you instantly DS guru.
-* Help you master hyperparameter selection for your keggle competition.
+* Help you master hyperparameter selection for your kaggle competition.
 * Fill your math and stats gaps from college.
+* We will not cover clustering methods.
 
 # Prerequisities for the workshop
 Before you attend the workshop, make sure, you have grip of:
