@@ -2,7 +2,7 @@
 A repo for storing stuff for data science workshop for https://www.datafestak.cz.
 
 # When & Where
-The workshop will be held at **09:30-10:00** in room **XXX**. Please get there on time, we'll not wait up.
+The workshop will be held at **08:30-10:00** in room **XXX**. Please get there on time, we'll not wait up.
 
 # Who'll be speaking
 * Viktor Sohajek (Mall Group)
