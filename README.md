@@ -32,4 +32,4 @@ Before you attend the workshop, make sure, you have grip of:
 * pandas library [Py]: loading data from csv, selecting/altering columns/rows
 
 
-**If you are not sure, whether the workshop level is optimal for you, just text us on Slack and we will be happy to discuss it with you ; -].**
+**If you are not sure, whether the workshop level is optimal for you, just text us on Slack and we will be happy to discuss it with you ;-].**
