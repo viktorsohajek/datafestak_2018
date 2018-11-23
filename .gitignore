@@ -1,3 +1,6 @@
 workshop_venv
+data/in.c*.csv
+data/*.gv
+data/*.pdf
 .ipynb_checkpoints
 dj_orders.csv
