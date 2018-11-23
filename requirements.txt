@@ -1,6 +1,8 @@
+geopy
 numpy
 plotly
 pandas
 scikit-learn
 graphviz
+cufflinks
 jupyter
