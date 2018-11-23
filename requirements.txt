@@ -6,3 +6,4 @@ scikit-learn
 graphviz
 cufflinks
 jupyter
+pandas-profiling
